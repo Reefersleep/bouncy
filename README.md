@@ -1,12 +1,12 @@
-# sketch
+# Bouncy ball demo
 
-FIXME: Write a one-line description of your library/project.
+This is a small demo I did while trying out the Quil animation library.
 
-## Overview
+Check it out: https://bouncy-demo.netlify.com
 
-FIXME: Write a paragraph about the library/project and highlight its goals.
 
-## Setup
+## Development stuff
+### Setup
 
 To get an interactive development environment run:
 
